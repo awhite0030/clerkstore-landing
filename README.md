@@ -97,3 +97,19 @@ This project demonstrates a complete landing page workflow:
 - VPS/nginx deployment pattern
 
 It is a good fit for Kwork services such as landing page development, Telegram bot storefront pages, small business websites, and simple VPS deployment.
+
+## Описание на русском
+
+ClerkStore Landing - это аккуратный коммерческий лендинг для Telegram-магазина с продажей доступа к AI-сервисам и подпискам. Проект сделан как портфолио-кейс для фриланс-площадок: есть карточки товаров, понятные CTA-кнопки, блок FAQ, анимации появления, модальное окно оформления и пример Docker/nginx-деплоя.
+
+Что внутри:
+
+- адаптивная вёрстка под desktop и mobile
+- каталог товаров с ценами и переходом в Telegram-бота
+- модальное окно для оформления заказа
+- блок FAQ
+- анимации при скролле и hover-эффекты на карточках
+- статическая сборка через Astro
+- пример production-деплоя через Docker и nginx
+
+Этот репозиторий удобно показывать заказчикам на Kwork как пример лендинга под ключ, страницы для Telegram-магазина, коммерческого сайта малого бизнеса или простого VPS-проекта.
